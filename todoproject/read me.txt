@@ -1,0 +1,7 @@
+
+virtual env :todo
+
+
+superuser: admin
+
+password:1234
